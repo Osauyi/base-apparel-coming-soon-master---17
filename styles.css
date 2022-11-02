@@ -99,8 +99,7 @@ button{
   border-radius: 40px;
   background-image: var(--button-color);
   position: absolute;
-  right: 1.75rem;
-  bottom: -7.5rem;
+  right: 1.625rem;
 }
 
 button:hover{
